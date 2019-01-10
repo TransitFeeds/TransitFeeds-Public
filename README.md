@@ -1,2 +1,5 @@
 
-9 January 2019: This repository is in the process of being migrated to a new location. Back very soon.
+
+__10 January 2019: TransitFeeds is now called OpenMobilityData__
+
+[https://github.com/OpenMobilityData/OpenMobilityData-Public](https://github.com/OpenMobilityData/OpenMobilityData-Public)
